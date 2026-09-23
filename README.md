@@ -1,2 +1,2 @@
 # peptown
-An opinionated domain driven designed python/FastAPI/react modular monolith
+An opinionated domain driven designed python/FastAPI/postgress/react/three.js modular monolith.
